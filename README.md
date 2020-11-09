@@ -94,22 +94,14 @@ A estrutura de arquivos está da seguinte maneira:
 rocketseat-advanced
 ├── src/
 │   ├── config/
-│   │   └── ReactotronConfig.js
-│   ├── images/
-│   │   ├── rocketseat_logo_roxa.png
-│   │   └── rocketseat_logo.png
+│   ├── Components/
+│   ├── config/
 │   ├── pages/
 │   │   └── Main/
 │   │       └── index.js
+│   │       └── styles.js
 │   ├── services/
 │   │   └── api.js
-│   ├── store/
-│   │   ├── ducks/
-│   │   │   └── index.js
-│   │   ├── sagas/
-│   │   │   └── index.js
-│   │   └── index.js
-│   ├── index.js
 │   └── routes.js
 ├── .editorconfig
 ├── .eslintrc.json
